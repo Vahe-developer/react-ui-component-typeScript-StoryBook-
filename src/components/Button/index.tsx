@@ -4,7 +4,7 @@ const Button:React.FC= () => {
 
   return (
     <button>
-      UI BUTTON
+      button component
     </button>
   );
 };
