@@ -33,8 +33,10 @@
     "fork-ts-checker-webpack-plugin": "^4.1.6",
     "jest": "^26.0.1",
     "prettier": "^2.0.5",
+    "rollup": "^2.23.0",
     "rollup-plugin-peer-deps-external": "^2.2.2",
     "rollup-plugin-typescript2": "^0.27.1",
+    "rollup-watch": "^4.3.1",
     "ts-loader": "^7.0.5",
     "typescript": "^3.9.3"
   },
@@ -42,11 +44,12 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "build": "rollup -c",
+    "dev": "rollup -c -w",
     "lint": "eslint 'src/**/*.{js,ts,tsx}' --quiet --fix"
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Vahe-developer/react-ui-component-typeScript-StoryBook-"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
