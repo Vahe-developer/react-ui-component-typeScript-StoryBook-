@@ -1,6 +1,6 @@
 {
-  "name": "tutor-platform-react-ui",
-  "version": "1.0.0",
+  "name": "@vah77/tutor-platform-react-ui",
+  "version": "1.1.0",
   "main": "./build/index.js",
   "module": "./build/index.es.js",
   "author": "Vahe",
@@ -49,7 +49,7 @@
     "url": ""
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "registry": "https://registry.npmjs.org/"
   },
-  "description": "��#\u0000 \u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000u\u0000i\u0000-\u0000c\u0000o\u0000m\u0000p\u0000o\u0000n\u0000e\u0000n\u0000t\u0000-\u0000t\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000-\u0000S\u0000t\u0000o\u0000r\u0000y\u0000B\u0000o\u0000o\u0000k\u0000-\u0000\r\u0000 \u0000#\u0000 \u0000r\u0000e\u0000a\u0000c\u0000t\u0000-\u0000u\u0000i\u0000-\u0000c\u0000o\u0000m\u0000p\u0000o\u0000n\u0000e\u0000n\u0000t\u0000-\u0000t\u0000y\u0000p\u0000e\u0000S\u0000c\u0000r\u0000i\u0000p\u0000t\u0000-\u0000S\u0000t\u0000o\u0000r\u0000y\u0000B\u0000o\u0000o\u0000k\u0000-\u0000\r\u0000 \u0000"
+  "description": "React-ui-library"
 }
