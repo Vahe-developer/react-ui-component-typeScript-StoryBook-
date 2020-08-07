@@ -1,10 +1,10 @@
 import React from 'react';
-
+import './button.css';
 const Button:React.FC= () => {
 
   return (
-    <button>
-      button component
+    <button className="Button">
+      button component ghgh
     </button>
   );
 };
