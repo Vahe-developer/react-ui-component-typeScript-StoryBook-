@@ -1,6 +1,6 @@
 {
   "name": "@vah77/tutor-platform-react-ui",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "main": "./build/index.js",
   "module": "./build/index.es.js",
   "author": "Vahe",
