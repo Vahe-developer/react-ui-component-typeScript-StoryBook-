@@ -1,10 +1,11 @@
 import React from 'react';
-import './button.css';
+import styles from './styles.less';
+
 const Button:React.FC= () => {
 
   return (
-    <button className="Button">
-      button component ghgh
+    <button className={styles.button} >
+      buttos
     </button>
   );
 };
