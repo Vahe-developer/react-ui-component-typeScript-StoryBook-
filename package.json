@@ -10,7 +10,6 @@
     "Component"
   ],
   "dependencies": {
-    "antd": "^4.5.2",
     "less-loader": "^6.2.0"
   },
   "peerDependencies": {
